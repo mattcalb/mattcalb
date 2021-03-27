@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello World, i'm Matt 👋
 
-<!--
-**mattcalb/mattcalb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 18 years old programming student based in Brazil.
 
-Here are some ideas to get you started:
+### What i'm focusing on 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently improving my JavaScript skills: React, React Native, Next.js, Electron and Node.
+
+### Find me elsewhere 🌎
+
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mattcalb/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattcalb&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
