@@ -4,7 +4,7 @@ I'm a 18 years old programming student based in Brazil.
 
 ### What i'm focusing on 💻
 
-I'm currently improving my JavaScript skills: React, React Native, Next.js, Electron and Node.
+I'm currently improving my JavaScript skills: React, Next.js and Node.
 
 ### Find me elsewhere 🌎
 
