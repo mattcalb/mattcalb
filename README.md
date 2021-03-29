@@ -1,8 +1,8 @@
-### Hello World, i'm Matt 👋
+### Hello World, I'm Matt 👋
 
 I'm a 18 years old programming student based in Brazil.
 
-### What i'm focusing on 💻
+### What I'm focusing on 💻
 
 I'm currently improving my JavaScript skills: React, Next.js and Node.
 
