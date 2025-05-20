@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi there, I'm Matt
 
-<!--
-**mattcalb/mattcalb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑‍💻 I'm a Front-End Developer passionate about **coffee**, **cats**, and **code**.
 
-Here are some ideas to get you started:
+- 📘 Currently learning and improving my skills about **React** and **Next.js**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently studying **Computer Science** at **Universidade La Salle**.
+---
+### 🚀 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,nodejs,mysql,postgres,mongo)](https://skillicons.dev)
+---
+### 📫 Let's connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/matthausalbrecht/)
