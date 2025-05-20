@@ -7,7 +7,7 @@
 - 🎓 Currently studying **Computer Science** at **Universidade La Salle**.
 ---
 ### 🚀 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,nodejs,mysql,postgres,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,nodejs,tailwind,mysql,postgres,mongo)](https://skillicons.dev)
 ---
 ### 📫 Let's connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/matthausalbrecht/)
