@@ -13,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,java" alt="Languages">
 </p>
 
-#### 🧩 Frameworks & Libraries
+#### 🧩 Frameworks, Platforms & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,spring,tailwind" alt="Frameworks & Libraries">
 </p>
