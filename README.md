@@ -3,9 +3,36 @@
 - 🧑‍💻 I'm a Full Stack Developer passionate about **coffee**, **cats**, and **code**.
 
 - 🎓 Currently studying **Computer Science** at **Universidade La Salle**.
+
 ---
+
 ### 🚀 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,java,spring,tailwind,mysql,postgres,mongo)](https://skillicons.dev)
+
+#### 🌐 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java" alt="Languages">
+</p>
+
+#### 🧩 Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,tailwind" alt="Frameworks & Libraries">
+</p>
+
+#### 💾 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo" alt="Databases">
+</p>
+
+#### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,figma,postman" alt="Tools">
+</p>
+
 ---
+
 ### 📫 Let's connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/matthausalbrecht/)
+<p>
+  <a href="https://www.linkedin.com/in/matthausalbrecht/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+  </a>
+</p>
