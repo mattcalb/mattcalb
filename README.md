@@ -1,7 +1,6 @@
 ## 👋 Hi there, I'm Matt
 
-- 🧑‍💻 I'm a Full Stack Developer passionate about **coffee**, **cats**, and **code**.
-
+- 🧑‍💻 I'm a Full Stack Developer passionate about solving problems with technology.
 - 🎓 Currently studying **Computer Science** at **Universidade La Salle**.
 
 ---
