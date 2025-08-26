@@ -2,6 +2,7 @@
 
 - 🧑‍💻 I'm a Full Stack Developer passionate about solving problems with technology.
 - 🎓 Currently studying **Computer Science** at **Universidade La Salle**.
+- 🚀 Always seeking new technologies and challenges.
 
 ---
 
