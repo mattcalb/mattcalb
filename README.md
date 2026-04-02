@@ -1,9 +1,9 @@
 ## Hi, I'm Matt! 👋
 
-I'm a full stack developer and final-year Computer Science student at Universidade La Salle, driven by a genuine curiosity to explore technologies — and turn ideas into reliable, real-world applications.
+I'm a full-stack developer and final-year Computer Science student at Universidade La Salle, driven by a genuine curiosity to explore technologies — and turn ideas into reliable, real-world applications.
 
 ### 💻 Tech Stack
-My main tech stack includes React, Next.js, TypeScript, Node.js and Java.
+My main tech stack includes React, TypeScript, Node.js and Flutter.
 
 >*Beyond specific frameworks, I'm deeply passionate about understanding the underlying architecture, design patterns, and ecosystems behind these tools, constantly learning new concepts to build efficient, maintainable, and scalable software.*
 
